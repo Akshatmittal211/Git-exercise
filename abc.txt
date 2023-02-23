@@ -1,0 +1,8 @@
+DevOps
+Ansible 
+Terraform
+Jenkins
+Git
+Docker
+K8s
+
